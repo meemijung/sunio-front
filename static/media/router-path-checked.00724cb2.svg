@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 15</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交易路由&amp;弹窗优化" transform="translate(-1603.000000, -608.000000)">
+            <g id="编组-13" transform="translate(1108.000000, 554.000000)">
+                <g id="编组-12" transform="translate(20.000000, 54.000000)">
+                    <g id="编组-15" transform="translate(475.000000, 0.000000)">
+                        <path d="M0,0 L26,0 C28.7614237,-5.07265313e-16 31,2.23857625 31,5 L31,31 L31,31 L0,0 Z" id="矩形" fill="#630AEA"></path>
+                        <polyline id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(21.116281, 7.500000) rotate(-45.000000) translate(-21.116281, -7.500000) " points="25.1162808 10 17.1162808 10 17.1162808 5"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

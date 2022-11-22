@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="13px" viewBox="0 0 17 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Back.9ec56707 (1)</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="二期sunswap" transform="translate(-702.000000, -350.000000)" fill="#9482F8" fill-rule="nonzero">
+            <g id="Back.9ec56707-(1)" transform="translate(702.000000, 350.000000)">
+                <g id="Group-7" transform="translate(6.363961, 6.363961) rotate(45.000000) translate(-6.363961, -6.363961) translate(1.863961, 1.863961)">
+                    <path d="M0.857142857,2.22044605e-16 L0.857142857,2.22044605e-16 C1.33052979,2.22044605e-16 1.71428571,0.383755928 1.71428571,0.857142861 L1.71428571,8.14285714 C1.71428571,8.61624407 1.33052979,9 0.857142857,9 L0.857142857,9 C0.383755929,9 1.11023546e-16,8.61624407 1.11023546e-16,8.14285714 L1.11023546e-16,0.857142861 C1.11023546e-16,0.383755928 0.383755929,2.22044605e-16 0.857142857,2.22044605e-16 Z" id="Rectangle"></path>
+                    <rect id="Rectangle-Copy-3" transform="translate(4.500000, 8.142858) rotate(90.000000) translate(-4.500000, -8.142858) " x="3.64285758" y="3.64285757" width="1.71428571" height="9" rx="0.857142855"></rect>
+                </g>
+                <rect id="Rectangle" x="1.5959397" y="5.4111678" width="15" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

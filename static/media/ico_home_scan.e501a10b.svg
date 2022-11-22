@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>曲线图icon</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="曲线图-价格" transform="translate(-1447.000000, -245.000000)" stroke="#9482F8" stroke-width="1.5">
+            <g id="编组-10" transform="translate(924.000000, 184.000000)">
+                <g id="曲线图" transform="translate(523.000000, 61.000000)">
+                    <g id="编组-3" transform="translate(3.000000, 2.200000)">
+                        <polyline id="路径" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.471181, 1.311295) rotate(-358.000000) translate(-14.471181, -1.311295) " points="13.20336 0.043473997 15.7390023 0.043473997 15.7390023 2.57911626"></polyline>
+                        <rect id="矩形" x="0" y="11.8" width="4" height="5" rx="1"></rect>
+                        <rect id="矩形备份" x="6" y="9.8" width="4" height="7" rx="1"></rect>
+                        <rect id="矩形备份-3" x="12" y="6.8" width="4" height="10" rx="1"></rect>
+                        <polyline id="路径-2" stroke-linecap="round" stroke-linejoin="round" points="0 8.8 6.34293028 5.00284585 9.51439543 6.1060462 15 0.8"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

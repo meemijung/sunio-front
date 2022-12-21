@@ -5,7 +5,7 @@ Support the exchange of authorized digital currencies of Dominica
 
 ## BTFS
 
-[sun](https://gateway.btfs.io/btfs/QmfWJS6BBBFmtsaN91zC3EMo8Y3wh9opxAcjZkMrWCsXuK/?lang=en-US#/home)
+[sun](https://sun.on.btfs.io/#/home)
 
 ## Community
 

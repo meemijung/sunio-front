@@ -19,11 +19,11 @@
     "static/js/11.19d465e7.chunk.js": "./static/js/11.19d465e7.chunk.js",
     "main.css": "./static/css/main.58fb8152.chunk.css",
     "main.js": "./static/js/main.0ccf2eaa.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.127a74b3.js",
+    "runtime-main.js": "./static/js/runtime-main.54a3c2ef.js",
     "static/css/14.771e1cc0.chunk.css": "./static/css/14.771e1cc0.chunk.css",
     "static/js/14.3e38249a.chunk.js": "./static/js/14.3e38249a.chunk.js",
     "static/css/15.5ab9aed0.chunk.css": "./static/css/15.5ab9aed0.chunk.css",
-    "static/js/15.3f8e097b.chunk.js": "./static/js/15.3f8e097b.chunk.js",
+    "static/js/15.1aeecc2a.chunk.js": "./static/js/15.1aeecc2a.chunk.js",
     "static/js/16.c48be1f4.chunk.js": "./static/js/16.c48be1f4.chunk.js",
     "static/css/17.2e6607f5.chunk.css": "./static/css/17.2e6607f5.chunk.css",
     "static/js/17.913799d1.chunk.js": "./static/js/17.913799d1.chunk.js",
@@ -336,7 +336,7 @@
     "static/media/win.svg": "./static/media/win.23d1420d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.127a74b3.js",
+    "static/js/runtime-main.54a3c2ef.js",
     "static/css/14.771e1cc0.chunk.css",
     "static/js/14.3e38249a.chunk.js",
     "static/css/main.58fb8152.chunk.css",

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DAO治理</title>
+    <defs>
+        <rect id="path-1" x="4.02473794" y="2.31434093" width="13.8125" height="17" rx="2"></rect>
+        <filter x="-18.1%" y="-14.7%" width="150.7%" height="141.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.118805823   0 0 0 0 0.118805823   0 0 0 0 0.162279212  0 0 0 0.197392817 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="更多-DAO" transform="translate(-39.000000, -429.000000)">
+            <g id="编组-7备份-3" transform="translate(39.000000, 428.821797)">
+                <rect id="矩形" fill="#8B5AEA" transform="translate(11.000000, 17.178203) rotate(-360.000000) translate(-11.000000, -17.178203) " x="0" y="12.1782032" width="22" height="10" rx="2"></rect>
+                <g id="矩形备份-3" transform="translate(10.930988, 10.814341) rotate(-330.000000) translate(-10.930988, -10.814341) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.295454545" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="square" fill-opacity="0.3" fill="#8B5AEA" fill-rule="evenodd" x="4.52473794" y="2.81434093" width="12.8125" height="16" rx="2"></rect>
+                </g>
+                <polyline id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(10.976955, 9.855158) rotate(-45.000000) translate(-10.976955, -9.855158) " points="14.1769553 11.8551585 7.77695526 11.8551585 7.77695526 7.85515849"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SUN权益</title>
+    <defs>
+        <path d="M5.70492693,3.40730198 L12.9098539,1.18225101 C13.2943264,1.06351685 13.7056736,1.06351685 14.0901461,1.18225101 L21.2950731,3.40730198 C21.7141664,3.53672787 22,3.92415346 22,4.36277667 L22,11.7546897 C22,14.8597608 20.3917883,17.7433072 17.75,19.375 L14.5509858,21.3508617 C13.906812,21.7487337 13.093188,21.7487337 12.4490142,21.3508617 L9.25,19.375 C6.60821171,17.7433072 5,14.8597608 5,11.7546897 L5,4.36277667 C5,3.92415346 5.28583356,3.53672787 5.70492693,3.40730198 Z" id="path-1"></path>
+        <filter x="-14.7%" y="-11.9%" width="141.2%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.118805823   0 0 0 0 0.118805823   0 0 0 0 0.162279212  0 0 0 0.197392817 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="更多-DAO" transform="translate(-39.000000, -480.000000)">
+            <g id="编组-7备份-6" transform="translate(39.000000, 480.000000)">
+                <path d="M0.585786438,4.41421356 L4.41421356,0.585786438 C4.78928632,0.210713681 5.29799415,9.74389576e-17 5.82842712,0 L12,0 C13.1045695,-2.02906125e-16 14,0.8954305 14,2 L14,16 C14,17.1045695 13.1045695,18 12,18 L2,18 C0.8954305,18 1.3527075e-16,17.1045695 0,16 L0,5.82842712 C1.70600258e-16,5.29799415 0.210713681,4.78928632 0.585786438,4.41421356 Z" id="矩形" fill="#8B5AEA" transform="translate(7.000000, 9.000000) scale(-1, 1) rotate(-360.000000) translate(-7.000000, -9.000000) "></path>
+                <g id="矩形备份-3" transform="translate(13.500000, 11.500000) rotate(-360.000000) translate(-13.500000, -11.500000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke-opacity="0.295454545" stroke="#FFFFFF" stroke-width="1" d="M13.0573904,1.65998836 C13.3457448,1.57093774 13.6542552,1.57093774 13.9426096,1.65998836 L13.9426096,1.65998836 L21.1475365,3.88503932 L21.5,11.7546897 C21.5,14.6864222 19.9815657,17.4089964 17.4872536,18.949601 L17.4872536,18.949601 L14.2882393,20.9254627 C14.0466742,21.0746647 13.7733371,21.1492657 13.5,21.1492657 C13.2266629,21.1492657 12.9533258,21.0746647 12.7117607,20.9254627 L12.7117607,20.9254627 L9.51274644,18.949601 C7.01843431,17.4089964 5.5,14.6864222 5.5,11.7546897 L5.5,11.7546897 L5.5,4.36277667 Z" stroke-linejoin="square" fill-opacity="0.3" fill="#8B5AEA" fill-rule="evenodd"></path>
+                </g>
+                <polygon id="星形" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" points="13.5 13 11.148859 14.236068 11.597887 11.618034 9.69577393 9.76393202 12.3244295 9.38196601 13.5 7 14.6755705 9.38196601 17.3042261 9.76393202 15.402113 11.618034 15.851141 14.236068"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

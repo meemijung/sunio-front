@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>论坛</title>
+    <defs>
+        <path d="M20,4 C21.1045695,4 22,4.8954305 22,6 L22,17 C22,18.1045695 21.1045695,19 20,19 L9.999,19 L7.70710678,21.2928932 C7.31658249,21.6834175 6.68341751,21.6834175 6.29289322,21.2928932 C6.10535684,21.1053568 6,20.8510029 6,20.5857864 L6,19 C4.8954305,19 4,18.1045695 4,17 L4,6 C4,4.8954305 4.8954305,4 6,4 L20,4 Z" id="path-1"></path>
+        <filter x="-13.9%" y="-14.2%" width="138.9%" height="139.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.118805823   0 0 0 0 0.118805823   0 0 0 0 0.162279212  0 0 0 0.197392817 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="更多-DAO" transform="translate(-39.000000, -531.000000)">
+            <g id="编组-7备份-8" transform="translate(39.000000, 531.000000)">
+                <path d="M14,2.22044605e-14 C15.1045695,2.20015544e-14 16,0.8954305 16,2 L16,9 C16,10.1045695 15.1045695,11 14,11 L5.999,11 L3.70710678,13.2928932 C3.31658249,13.6834175 2.68341751,13.6834175 2.29289322,13.2928932 C2.10535684,13.1053568 2,12.8510029 2,12.5857864 L2,11 C0.8954305,11 1.3527075e-16,10.1045695 0,9 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.24073666e-14 2,2.22044605e-14 L14,2.22044605e-14 Z" id="形状结合" fill="#8B5AEA"></path>
+                <g id="形状结合" transform="translate(13.000000, 12.792893) scale(-1, 1) translate(-13.000000, -12.792893) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke-opacity="0.295454545" stroke="#FFFFFF" stroke-width="1" d="M20,4.5 C20.4142136,4.5 20.7892136,4.66789322 21.0606602,4.93933983 C21.3321068,5.21078644 21.5,5.58578644 21.5,6 L21.5,6 L21.5,17 C21.5,17.4142136 21.3321068,17.7892136 21.0606602,18.0606602 C20.7892136,18.3321068 20.4142136,18.5 20,18.5 L20,18.5 L9.79182933,18.5 L7.35355339,20.9393398 L6.5,18.4191547 C5.89486044,18.6154589 5.31691966,18.43824 4.93933983,18.0606602 C4.66789322,17.7892136 4.5,17.4142136 4.5,17 L4.5,17 L4.5,6 C4.5,5.58578644 4.66789322,5.21078644 4.93933983,4.93933983 C5.21078644,4.66789322 5.58578644,4.5 6,4.5 L6,4.5 Z" stroke-linejoin="square" fill-opacity="0.3" fill="#8B5AEA" fill-rule="evenodd"></path>
+                </g>
+                <rect id="矩形" fill="#FFFFFF" x="8" y="8" width="10" height="2" rx="1"></rect>
+                <rect id="矩形备份-24" fill="#FFFFFF" x="8" y="13" width="10" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
